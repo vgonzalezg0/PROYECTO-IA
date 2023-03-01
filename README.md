@@ -35,3 +35,7 @@ files.upload()
 ```python
 ! kaggle competitions download -c home-credit-default-risk
 ```
+**7.** Descomprimir el Dataset
+```python
+! unzip home-credit-default-risk
+```
