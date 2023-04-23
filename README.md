@@ -41,3 +41,5 @@ files.upload()
 ```python
 ! unzip home-credit-default-risk
 ```
+## Videos
+- [Video Entrega 2](https://youtu.be/n2YW2c68oC4)
